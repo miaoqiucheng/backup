@@ -252,6 +252,7 @@ baidu_analytics: 4f9067ed9fc4bfb2421c4cac7aa76b96
 
 # Duoshuo ShortName
 duoshuo_shortname: fuquyanchen
+duoshuo_share: true
 
 # Disqus
 #disqus_shortname:
